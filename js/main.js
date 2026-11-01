@@ -16,15 +16,3 @@ for (var i = 1; i <= cantidadDeGatos; i++) {
             break;
     }
 }
-
-
-/* Gato #1: 😺
-Gato #2: 😸
-Gato #3: 😹
-Gato #4: 😺
-Gato #5: 😸
-Gato #6: 😹
-Gato #7: 😺
-Gato #8: 😸
-Gato #9: 😹
-Gato #10: 😺 */
